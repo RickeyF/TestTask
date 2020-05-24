@@ -1,7 +1,5 @@
 # Test Task - Node REST API
 
-## Description
-
 ### Description
 
 - CRUD manipulations over the authors and their books
